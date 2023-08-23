@@ -77,7 +77,7 @@ Error generating stack: `+o.message+`
       border: 1px solid black;
       transition: 0.3s background ease-in;
     }
-`,Em=({toggle:e})=>D.jsxs(Sm,{children:[D.jsx("div",{children:D.jsx("img",{src:"./public/images/dices.png"})}),D.jsxs("div",{children:[D.jsx(km,{children:"DICE GAME"}),D.jsx(xm,{onClick:e,children:"Play Now"})]})]}),Cm=ft.div`
+`,Em=({toggle:e})=>D.jsxs(Sm,{children:[D.jsx("div",{children:D.jsx("img",{src:"./Project3-Dice-StyleComponent/public/images/dices.png"})}),D.jsxs("div",{children:[D.jsx(km,{children:"DICE GAME"}),D.jsx(xm,{onClick:e,children:"Play Now"})]})]}),Cm=ft.div`
     max-width: 200px;
     text-align: center;
     //justify-content: space-between;
