@@ -48,7 +48,7 @@ const StartGame = ({ toggle }) => {
     
     <Container>
         <div>
-            <img src="./public/images/dices.png" />
+            <img src="./Project3-Dice-StyleComponent/public/images/dices.png" />
         </div>
 
         <div>
